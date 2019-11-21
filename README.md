@@ -26,4 +26,5 @@ npm run build
 
 Copy the **dist** folder, and put it on your devel.
 
-[Download XD File](%5Bhttps://drive.google.com/open?id=102XWft55m2Tkr-541n8pFuwr-8QNJYQI%5D%28https://drive.google.com/open?id=102XWft55m2Tkr-541n8pFuwr-8QNJYQI%29)
+
+**[Download XD file](https://drive.google.com/open?id=102XWft55m2Tkr-541n8pFuwr-8QNJYQI)**.
