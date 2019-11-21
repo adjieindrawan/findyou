@@ -1,0 +1,34 @@
+{
+  "name": "findyou",
+  "version": "0.1.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "adjieindrawan",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "browser-sync": "^2.26.7",
+    "eslint-plugin-html": "^5.0.5",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "jshint": "^2.10.3",
+    "jshint-stylish": "^2.2.1",
+    "panini": "^1.6.3",
+    "rimraf": "^2.7.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
